@@ -712,7 +712,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodWaste/img/w10924.png"
   },
   {
-    "revision": "abdbf8434832ffb00a10ab71de88f602",
+    "revision": "29aac60254ad553d64371c84b848bf54",
     "url": "/foodWaste/index.html"
   },
   {
@@ -728,7 +728,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/foodWaste/js/chunk-vendors.0690bffd.js"
   },
   {
-    "revision": "6a56d55230f038df0f4aea082e3e5797",
+    "revision": "72e95ec9ad3f6537620ac87603bb1dd3",
     "url": "/foodWaste/manifest.json"
   },
   {

@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/foodWaste/precache-manifest.7b1a8612f38807bd34348d9267033876.js"
+  "/foodWaste/precache-manifest.3154ed5fc3f7491cbac38ae892b39e86.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "figma-low-code"});
+workbox.core.setCacheNameDetails({prefix: "food-waste"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

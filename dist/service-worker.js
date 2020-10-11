@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a588c0b75a0d895295d0caa28a95cad9.js"
+  "/foodWaste/precache-manifest.7b1a8612f38807bd34348d9267033876.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "figma-low-code"});
